@@ -1,6 +1,6 @@
 # Leaf Disease Prediction
-# Inspiration:
-I have been always thinking to explore the field og agriculture and build an automatic disease prediction model and deploy it. After continuous web surfing I came across a reasearch article by rishnaswamy Rangarajan Aravind & Purushothaman Raja which opened doors for my project. 
+# Motivation
+I have been always thinking to explore the field og agriculture and build an automatic disease prediction model and deploy it. After continuous web surfing I came across a reasearch article by Krishnaswamy Rangarajan Aravind & Purushothaman Raja which opened doors for my project. 
 Article link: https://doi.org/10.1080/00051144.2020.1728911
 
 # Stage 1
