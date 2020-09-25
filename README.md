@@ -14,6 +14,8 @@ Dataset link: https://www.kaggle.com/shayanriyaz/riceleafs
 Found a dataset on kaggle called Plant Village which consists of 15 types of plant disease types. 
 Build models to predict these plat disease types. I have tried with varioud image sizes and epochs by setting learning rate are 0.0003. I have also used tranfer learning techniques such as Inception V3 and ResNet. Below are the reports of my trials.
 
+Dataset link: https://www.kaggle.com/emmarex/plantdisease
+
   # Custom Built Model
   Model Summary
   
@@ -22,4 +24,20 @@ Build models to predict these plat disease types. I have tried with varioud imag
   Model Report
   
   <img width="382" alt="15_custom_report " src="https://user-images.githubusercontent.com/48923446/94246468-66bb6f80-ff39-11ea-9223-b7d46eec378a.png">
+  
+  # ResNet50
+  Model Summary 
+  
+  <img width="354" alt="inception_15 model" src="https://user-images.githubusercontent.com/48923446/94248004-818ee380-ff3b-11ea-9267-70ed98c5832f.png">
+
+  Model Report
+  
+  <img width="356" alt="resnet50_15_report" src="https://user-images.githubusercontent.com/48923446/94248328-f2360000-ff3b-11ea-8e30-aa52fd803368.png">
+
+  # Inception V3
+  
+  Model Report 
+  
+  <img width="359" alt="inception v3_15_report " src="https://user-images.githubusercontent.com/48923446/94248195-c0bd3480-ff3b-11ea-99ed-afb3419467a0.png">
+  
   
