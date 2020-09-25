@@ -75,6 +75,7 @@ Model Summary
 <img width="274" alt="vgg19_40_summary" src="https://user-images.githubusercontent.com/48923446/94253215-991d9a80-ff42-11ea-9364-4f3eeff826b9.png">
 
 Model Report
+VGG19 model's metrics were almost same with VGG16 model's metrics. But VGG16 model's validation accuracy was more and validation loss was less compared to VGG19 model.
 
 # VGG16 
 Model Summary 
@@ -83,6 +84,7 @@ Model Summary
 
 Model Report 
 
+<img width="662" alt="VGG16_40_REPORT" src="https://user-images.githubusercontent.com/48923446/94256638-b739c980-ff47-11ea-98b0-096c9c1eda16.png">
 
 Loss and accuracy plots
 
