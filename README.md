@@ -49,6 +49,8 @@ Dataset link: https://www.kaggle.com/emmarex/plantdisease
  
  Trained it in custome built model, VGG16, VGG19, Inception V3. Achived best results using VGG16 model with 98% training accuracy and 92.3% validatioon accuracy.
  
+ Note : Leaky relu and relu are performing very poor on this dataset so used sigmoid actuvation function for hidden layers.
+ 
  # Custom Model 
   Model Summary
   
@@ -56,6 +58,7 @@ Dataset link: https://www.kaggle.com/emmarex/plantdisease
   
   Model Report
   
+  <img width="826" alt="custom_40_report" src="https://user-images.githubusercontent.com/48923446/94255682-3fb76a80-ff46-11ea-9827-c702e8aa9798.png">
   
 # Inception V3
 Model Summary
@@ -64,6 +67,7 @@ Model Summary
 
 Model Report 
 
+<img width="720" alt="Incaption_40_report" src="https://user-images.githubusercontent.com/48923446/94256080-da17ae00-ff46-11ea-93b8-86955687c3a8.png">
 
 # VGG19 
 Model Summary
