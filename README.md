@@ -1,12 +1,12 @@
 # Leaf Disease Prediction
 # Motivation
-I have been always thinking to explore the field og agriculture and build an automatic disease prediction model and deploy it. After continuous web surfing I came across a reasearch article by Krishnaswamy Rangarajan Aravind & Purushothaman Raja which opened doors for my project. 
+I have been always thinking to explore the field of agriculture and build an automatic disease prediction model and deploy it. After continuous web surfing I came across a reasearch article by Krishnaswamy Rangarajan Aravind & Purushothaman Raja which opened doors for my project. 
 Article link: https://doi.org/10.1080/00051144.2020.1728911
 
 # Stage 1
 
-Downloaded the rice leaf dataset from kaggle and worked on it to predict four types of rice leaf. The dataset had high definition images and I had to compress the images into lower dimensions to avoid huge computational cost.
-Built various models of image sizes 128,150,175 and 200 using a custom neural network and transfer learning techniques, Inception V3, ResNet, VGG16,VGG19. All of them resulted in test accuracy less than 60%.
+Downloaded the rice leaf dataset from kaggle and worked on it to predict four types of rice leaves. The dataset had high definition images and I had to compress the images into lower dimensions to avoid huge computational cost.
+Built various models using image sizes 128,150,175 and 200 using a custom neural network and transfer learning techniques such as Inception V3, ResNet, VGG16, VGG19. All of them resulted in test accuracy less than 60%.
 
 Dataset link: https://www.kaggle.com/shayanriyaz/riceleafs
 
