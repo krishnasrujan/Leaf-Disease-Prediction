@@ -1,4 +1,5 @@
 # Leaf Disease Prediction
+
 # Motivation
 I have been always thinking to explore the field of agriculture and build an automatic disease prediction model and deploy it. After continuous web surfing I came across a reasearch article by Krishnaswamy Rangarajan Aravind & Purushothaman Raja which opened doors for my project. 
 Article link: https://doi.org/10.1080/00051144.2020.1728911
@@ -90,3 +91,8 @@ Loss and accuracy plots
 
 ![vgg16_loss_0 4_70](https://user-images.githubusercontent.com/48923446/94253393-e6017100-ff42-11ea-832b-bb188648a0be.png)
 ![vgg16_70e_0 4](https://user-images.githubusercontent.com/48923446/94253422-f0bc0600-ff42-11ea-9cda-921e0dabf55c.png)
+
+# Useful Links:
+
+I have dockerized the project. Link to docker repository: https://hub.docker.com/repository/docker/krishnasrujan/leaf_health_detection
+LinkedIn: https://www.linkedin.com/in/krishna-srujan-139147168/
