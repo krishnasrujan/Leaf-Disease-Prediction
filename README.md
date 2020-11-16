@@ -85,7 +85,7 @@ Model Summary
 
 Model Report 
 
-<img width="662" alt="VGG16_40_REPORT" src="https://user-images.githubusercontent.com/48923446/94256638-b739c980-ff47-11ea-98b0-096c9c1eda16.png">
+<img width="730" alt="latest plant metrics" src="https://user-images.githubusercontent.com/48923446/99278578-3c10d780-2855-11eb-8b64-21ffb7f5ebbe.PNG">
 
 Loss and accuracy plots
 
