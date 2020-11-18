@@ -89,8 +89,7 @@ Model Report
 
 Loss and accuracy plots
 
-![vgg16_loss_0 4_70](https://user-images.githubusercontent.com/48923446/94253393-e6017100-ff42-11ea-832b-bb188648a0be.png)
-![accuracy]("https://user-images.githubusercontent.com/48923446/99528733-bb70e900-29c4-11eb-85d4-74d17ed54fc2.PNG">)
+<img width="303" alt="accuracy" src="https://user-images.githubusercontent.com/48923446/99528733-bb70e900-29c4-11eb-85d4-74d17ed54fc2.PNG">    <img width="292" alt="loss" src="https://user-images.githubusercontent.com/48923446/99528738-bd3aac80-29c4-11eb-93bb-709a2641a8cd.PNG">
 
 # Useful Links:
 
