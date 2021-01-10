@@ -12,10 +12,11 @@ Built various models using image sizes 128,150,175 and 200 using a custom neural
 Dataset link: https://www.kaggle.com/shayanriyaz/riceleafs
 
 # Stage 2
-Found a dataset on kaggle called Plant Village which consists of 15 types of plant disease types. 
-Build models to predict these plat disease types. I have tried with varioud image sizes and epochs by setting learning rate are 0.0003. I have also used tranfer learning techniques such as Inception V3 and ResNet. Below are the reports of my trials.
-
+Found a dataset on kaggle called Plant Village which consists of 15 types of plant diseases. 
 Dataset link: https://www.kaggle.com/emmarex/plantdisease
+
+Buildt model to predict these plat disease types. I have tried with various image sizes and epochs by setting learning rate as 0.0003. I have also used tranfer learning techniques such as Inception V3 and ResNet. Below are the reports of my trials.
+
 
   # Custom Built Model
   Model Summary
